@@ -1,0 +1,9 @@
+This is a basic machine learning stock predictor that estimates tomorrow's stock price for any stock. Hopefully it goes without saying, but please do not attempt 
+to use this algorithm as part of your investment strategy -- it messes up sometimes, potentially by a LOT! For general use it's fairly accurate, but it's not a 
+crystal ball...
+
+You can select the stock you want to predict at the start of the program, as well as the date range for data used to train the model. Should be fairly intuitive
+but if anything is unclear or the program has major errors please let me know ASAP.
+
+Tech: np, pd, skl, keras.
+Video by NuralNine on YouTube guided this project.
