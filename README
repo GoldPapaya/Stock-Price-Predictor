@@ -1,4 +1,4 @@
-This is a basic machine learning stock predictor that estimates tomorrow's stock price for any stock. This goes without saying, but please do not use this algorithm as part of your investment strategy.
+This is a stock predictor that uses machine learning to estimate tomorrow's stock price for any stock. This goes without saying, but please do not use this algorithm as part of your investment strategy.
 
 You can select the stock you want to predict at the start of the program, as well as the date range for data used to train the model.
 
